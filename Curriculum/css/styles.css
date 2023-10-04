@@ -1,10 +1,10 @@
-.body{
+.body {
     text-align: center;
     background-color: rgb(213, 213, 205);
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.divClass{
+.divClass {
     border-radius: 10px;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -16,19 +16,26 @@
     background-color: azure;
 }
 
-.infoClass{
+.infoClass {
     background-color: rgb(208, 204, 204);
-    border-radius: 10px;  
-    padding-top: 10px; 
+    border-radius: 10px;
+    padding-top: 10px;
     margin-left: 70px;
     margin-right: 70px;
     margin-top: 50px;
-    box-shadow: 10px 10px 12px black;
+    box-shadow: 10px 5px 12px black;
 }
 
-.tituloClass{
+.subTituloClass {
     background-color: rgb(143, 140, 140);
-    border-radius: 10px;   
+    border-radius: 10px;
     margin-left: 70px;
     margin-right: 70px;
+}
+
+.tituloClass {
+    background-color: rgb(118, 113, 113);
+    margin-left: 70px;
+    margin-right: 70px;
+    border-radius: 10px;
 }
